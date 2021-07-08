@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m @muhaiminrahim
 
-### 🌱 I’m currently learning React and Laravel
+### 🎓 I’m currently learning React and Laravel
 
 <!---
 muhaiminrahim/muhaiminrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
