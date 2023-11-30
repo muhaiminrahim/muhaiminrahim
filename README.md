@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m @muhaiminrahim
 
-### 🎓 I’m currently learning anything that excite me
+### 🎓 I'm currently learning anything that excites me.
 
 <!---
 muhaiminrahim/muhaiminrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
