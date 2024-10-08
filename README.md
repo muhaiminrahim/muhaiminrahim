@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m @muhaiminrahim
 
-### 🎓 I'm currently learning GO.
+### 🎓 I'm currently learning
 
 <!---
 muhaiminrahim/muhaiminrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
